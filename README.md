@@ -10,7 +10,7 @@ We've migrated to a private repository.
 
 ## Installation
 ```
-go get -u github.com/nuetoban/crocodile-game-bot
+go get -u github.com/dsroot/crocodile-game-bot
 ```
 
 ## Running
